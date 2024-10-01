@@ -8,3 +8,6 @@ help airlines calculate the fuel cost incurred due to delays at airports caused 
 or RWY incidences. The ADSB API was used which tracks all the aircrafts within the 10nm radius of the ARP of any airport.
 We calculated this data for all US major airports to get a dashboard which will give the aircraft status such as on ground or takeoff
 as well as time taken before aircraft is 50ft off the ground.
+
+![Home Image](https://github.com/bhavinbhatt278/Aircraft-Taxxing-Time-Calculation/blob/main/Denver_airport_Dashboard.png)
+
