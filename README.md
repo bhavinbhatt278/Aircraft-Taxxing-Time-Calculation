@@ -10,4 +10,6 @@ We calculated this data for all US major airports to get a dashboard which will 
 as well as time taken before aircraft is 50ft off the ground.
 
 ![Home Image](https://github.com/bhavinbhatt278/Aircraft-Taxxing-Time-Calculation/blob/main/Denver_airport_Dashboard.png)
+![Home Image](https://github.com/bhavinbhatt278/Aircraft-Taxxing-Time-Calculation/blob/main/Airport_Screenshot.png)
+
 
