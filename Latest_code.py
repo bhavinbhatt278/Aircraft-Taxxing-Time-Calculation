@@ -21,7 +21,7 @@ df_on_ground = pd.DataFrame(columns=['Flight', 'ACFT_Type', 'Time'])
 conn = http.client.HTTPSConnection("adsbexchange-com1.p.rapidapi.com")
 
 headers = {
-    'X-RapidAPI-Key': "a3d369739bmshe28db4d6c15add4p19d395jsnd5e7e6985364",
+    'X-RapidAPI-Key': "a3d369739bmshe28db4d6c15add4p19d395jsnd5e7e69853",
     'X-RapidAPI-Host': "adsbexchange-com1.p.rapidapi.com"
 }
 
